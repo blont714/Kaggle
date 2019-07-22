@@ -5,19 +5,19 @@ KaggleのCompetitions『[Digit Recognizer](https://www.kaggle.com/c/digit-recogn
 
 そこで[最も人気のあるKernel](https://www.kaggle.com/yassineghouzam/introduction-to-cnn-keras-0-997-top-6)のコードにハイパーパラメータチューニングを施し、scoreを改善した。
 
-score　：　0.99485(before) ⇒ __0.99571__(after) 
+score ： 0.99485(before) ⇒ __0.99571__(after) 
 
 ## 各ファイル説明
 
-    before.py　：　参考にした元コード
+    before.py ： 参考にした元コード
 
-    after.py　： 改善したコード
+    after.py ： 改善したコード
 
-    tuning.py　：　ハイパーパラメータチューニングを行うコード(自作)
+    tuning.py ： ハイパーパラメータチューニングを行うコード(自作)
 
-    cnn_mnist_datagen.csv　：　最もスコアの良かったcsvファイル
+    cnn_mnist_datagen.csv ： 最もスコアの良かったcsvファイル
 
-    score.png　：　パラメータ変更前、後のスコア比較
+    score.png ： パラメータ変更前、後のスコア比較
 
 ## 内容
 
