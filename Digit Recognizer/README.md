@@ -35,7 +35,7 @@ KaggleのCompetitions『[Digit Recognizer](https://www.kaggle.com/c/digit-recogn
 
 ## 環境
 
-Tensorflow 1.14.0
+Tensorflow-gpu 1.14.0
 
 CUDA 10.0
 
