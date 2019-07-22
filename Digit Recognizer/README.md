@@ -9,15 +9,15 @@ KaggleのCompetitions『[Digit Recognizer](https://www.kaggle.com/c/digit-recogn
 
 ## 各ファイル説明
 
-before.py　：　参考にした元コード
+    before.py　：　参考にした元コード
 
-after.py　： 改善したコード
+    after.py　： 改善したコード
 
-tuning.py　：　ハイパーパラメータチューニングを行うコード(自作)
+    tuning.py　：　ハイパーパラメータチューニングを行うコード(自作)
 
-cnn_mnist_datagen.csv　：　最もスコアの良かったcsvファイル
+    cnn_mnist_datagen.csv　：　最もスコアの良かったcsvファイル
 
-score.png　：　パラメータ変更前、後のスコア比較
+    score.png　：　パラメータ変更前、後のスコア比較
 
 ## 内容
 
