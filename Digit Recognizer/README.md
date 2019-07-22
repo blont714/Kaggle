@@ -1,9 +1,9 @@
 概要
 ====
 
-KaggleのCompetitions『Digit Recognizer』(https://www.kaggle.com/c/digit-recognizer)
+KaggleのCompetitions『[Digit Recognizer](https://www.kaggle.com/c/digit-recognizer)』
 
-そこで最も人気のあるKernels(https://www.kaggle.com/yassineghouzam/introduction-to-cnn-keras-0-997-top-6)
+そこで[最も人気のあるKernel](https://www.kaggle.com/yassineghouzam/introduction-to-cnn-keras-0-997-top-6)
 
 のコードにハイパーパラメータチューニングを施し、scoreを改善した。
 
@@ -15,7 +15,7 @@ before.py　：　参考にした元コード
 
 after.py　： 改善したコード
 
-tuning.py　：　ハイパーパラメータチューニングを行うコード
+tuning.py　：　ハイパーパラメータチューニングを行うコード(自作)
 
 cnn_mnist_datagen.csv　：　最もスコアの良かったcsvファイル
 
@@ -37,7 +37,7 @@ score.png　：　パラメータ変更前、後のスコア比較
 
 ## 環境
 
-Tensorflow 1.14
+Tensorflow 1.14.0
 
 CUDA 10.0
 
