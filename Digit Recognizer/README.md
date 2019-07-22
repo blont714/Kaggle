@@ -11,31 +11,22 @@ KaggleのCompetitions『Digit Recognizer』(https://www.kaggle.com/c/digit-recog
 
 ## 各ファイル説明
 
-before.py ：　参考にした元コード
-after.py ： 改善後のコード
-tuning.py ：　ハイパーパラメータチューニングを行うコード
+before.py　：　参考にした元コード
+
+after.py　： 改善したコード
+
+tuning.py　：　ハイパーパラメータチューニングを行うコード
+
+cnn_mnist_datagen.csv　：　最もスコアの良かったcsvファイル
+
+score.png　：　パラメータ変更前、後のスコア比較
 
 ## Description
 
-Kernels
+元コードと同様のニューラルネットワークを構築し、全結合層、ドロップアウト層に対して
 機械学習にはKerasを用いており、hyperasを用いてハイパーパラメータチューニングを行った。
 
-## Demo
-
-## VS. 
-
-## Requirement
-
-## Usage
-
-## Install
-
-## Contribution
-
-## Licence
-
-[MIT](https://github.com/tcnksm/tool/blob/master/LICENCE)
-
-## Author
-
-[tcnksm](https://github.com/tcnksm)
+## 環境
+Tensorflow 1.14
+CUDA 10.0
+cuDNN 7.4.2
