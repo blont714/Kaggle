@@ -5,7 +5,7 @@ KaggleのCompetitions『[Digit Recognizer](https://www.kaggle.com/c/digit-recogn
 
 そこで[最も人気のあるKernel](https://www.kaggle.com/yassineghouzam/introduction-to-cnn-keras-0-997-top-6)のコードにハイパーパラメータチューニングを施し、scoreを改善した。
 
-score　：　_0.99485_(before) ⇒ __0.99571__(after) 
+score　：　0.99485(before) ⇒ __0.99571__(after) 
 
 ## 各ファイル説明
 
